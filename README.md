@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there, I'm the serverless dev known as Tanner 
+
+- 🔭 I’m currently working at AWS as a cloud consultant
+- 🌱 I’m currently learning how to leverage AI without losing all my brain cells
+- 💬 Ask me about serverless or AWS!
+- 📫 How to reach me: programtanner@gmail.com
 
 <!--
 **tannerbyers/tannerbyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
